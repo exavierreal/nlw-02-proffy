@@ -51,5 +51,7 @@ body, input, button, textarea {
 }
 
 @media(min-width:700px) {
-    font-size: 62.5%;
+    :root {
+        font-size: 62.5%;
+    }
 }
